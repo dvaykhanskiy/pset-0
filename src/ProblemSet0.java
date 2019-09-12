@@ -67,16 +67,16 @@ public class ProblemSet0 {
           * Print a to-do list to the console.
           */
 
-        // System.out.println("Here's today's to-do list:");
-        // System.out.println("\t- Go food shopping");
-        // System.out.println("\t- Mow the lawn\n");
-        //
-        // /*
-        //  * Exercise 6.
-        //  *
-        //  * Print a square of text to the console.
-        //  */
-        //
+         System.out.println("\nHere's today's to-do list:");
+         System.out.println("\t- Go food shopping");
+         System.out.println("\t- Mow the lawn\n");
+
+         /*
+          * Exercise 6.
+          *
+          * Print a square of text to the console.
+          */
+
         // System.out.println("H E L L O\nEA\nLP\nLC\nO A P C);
         //
         // /*
