@@ -25,20 +25,20 @@ public class ProblemSet0 {
          */
 
         System.out.println("\nHello, world! Am I a programmer yet?\n");
-        // 
-        // /*
-        //  * Exercise 2.
-        //  *
-        //  * Print APCS in block letters to the console.
-        //  */
-        //
-        // System.out.println("\n   ##    ######   ####### ########");
-        // System.out.println("  #  #   #     # #        #");
-        // System.out.println(" #    #  #     # #        #");
-        // System.out.Println("######## ######  #        ########");
-        // System.out.prinltn("#      # #       #               #");
-        // System.Out.println("#      # #       #               #");
-        // system.out.println("#      # #       ####### #########\n");
+
+         /*
+          * Exercise 2.
+          *
+          * Print APCS in block letters to the console.
+          */
+
+         System.out.println("\n   ##    ######   ####### ########");
+         System.out.println("  #  #   #     # #        #");
+         System.out.println(" #    #  #     # #        #");
+         System.out.println("######## ######  #        ########");
+         System.out.println("#      # #       #               #");
+         System.out.println("#      # #       #               #");
+         System.out.println("#      # #       ####### #########\n");
 
         /*
         //  * Exercise 3.
